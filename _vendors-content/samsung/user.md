@@ -1,4 +1,8 @@
----
+reduction du ralentissement du téléphone a 500%
+anuler les plantage quand je joue un jeux 
+one tap headshot dans Free Fire 
+rendre ma connexion wifi 3 plus rapide que avent rendre ma connexion internet 4 plus rapide que avent 
+
 manufacturer: samsung
 
 ---
